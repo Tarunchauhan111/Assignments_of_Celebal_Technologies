@@ -1,8 +1,8 @@
-# E-Commerce Data Cleaning Pipeline
+# Data Cleaning Pipeline
 
 ## 📌 Objective
 
-Perform data exploration and cleaning using Pandas on an e-commerce dataset.
+Perform data exploration and cleaning using Pandas on dataset.
 
 ---
 
@@ -10,8 +10,6 @@ Perform data exploration and cleaning using Pandas on an e-commerce dataset.
 
 - Python
 - Pandas
-- NumPy
-- Matplotlib
 - Jupyter Notebook
 
 ---
