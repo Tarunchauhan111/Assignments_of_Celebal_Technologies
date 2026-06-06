@@ -62,7 +62,7 @@ Assignment 3/
 │   └── superstore.db
 │
 ├── output3/
-│   └── screenshots/
+│   └── Outputs of Assignment 3.pdf
 │
 └── README.md
 ```
