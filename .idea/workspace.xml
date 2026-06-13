@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dab45bf4-54d2-4fd5-9eec-839cbf195b2a" name="Changes" comment="Submission of Assignment of week 4 with output in form of screenshots and readme file">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="dab45bf4-54d2-4fd5-9eec-839cbf195b2a" name="Changes" comment="Submission of Assignment of week 4 with output in form of screenshots and readme file" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -82,7 +80,7 @@
       <workItem from="1780138146862" duration="1922000" />
       <workItem from="1780153731221" duration="15276000" />
       <workItem from="1780745532671" duration="18479000" />
-      <workItem from="1781379184910" duration="2279000" />
+      <workItem from="1781379184910" duration="2408000" />
     </task>
     <task id="LOCAL-00001" summary="Assignment 2 is commited">
       <option name="closed" value="true" />
@@ -132,7 +130,23 @@
       <option name="project" value="LOCAL" />
       <updated>1780773080270</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Submission of Assignment of week 4 with output in form of screenshots and readme file">
+      <option name="closed" value="true" />
+      <created>1781381507819</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1781381507820</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Submission of Assignment of week 4 with output in form of screenshots and readme file">
+      <option name="closed" value="true" />
+      <created>1781381535676</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1781381535676</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
